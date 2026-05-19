@@ -8,7 +8,7 @@
 
     // ─── Configuración ─────────────────────────────────────────────────────────
 
-    const API_URL      = "https://ecuador-digital-backend.onrender.com/";
+    const API_URL = "https://ecuador-digital-backend.onrender.com/chat";
     const MAX_MSG_LEN  = 500;   // Sincronizado con el backend
     const SUGGESTIONS  = [
         "¿Ecuador está preparado para un gobierno electrónico?",
